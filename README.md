@@ -2,6 +2,6 @@
 sebuah aplikasi dengan fitur login
 
 atur fitur login:
-memasukan email password
-memvalidasi masukan
-menampilkan halaman beranda
+1.memasukan email password.
+2.memvalidasi masukan.
+3.menampilkan halaman beranda.
